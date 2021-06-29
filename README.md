@@ -2,7 +2,7 @@
 This is a complete log of my programing skills, learning process, and useful resources.
 
 ## About Me
-8+ work experiences in marketing analytics and strategies before I decided to swtich my career to front-end developing.  
+8+ year of work experiences in marketing analytics and strategies before deciding to switch career to front-end developing.  
 
 > Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do.
 
